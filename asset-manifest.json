@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pablocgdev13/01_React_ToDoList/static/css/main.a7d3e921.css",
+    "main.js": "/pablocgdev13/01_React_ToDoList/static/js/main.b9fc0619.js",
+    "static/js/787.99f1ca28.chunk.js": "/pablocgdev13/01_React_ToDoList/static/js/787.99f1ca28.chunk.js",
+    "index.html": "/pablocgdev13/01_React_ToDoList/index.html",
+    "main.a7d3e921.css.map": "/pablocgdev13/01_React_ToDoList/static/css/main.a7d3e921.css.map",
+    "main.b9fc0619.js.map": "/pablocgdev13/01_React_ToDoList/static/js/main.b9fc0619.js.map",
+    "787.99f1ca28.chunk.js.map": "/pablocgdev13/01_React_ToDoList/static/js/787.99f1ca28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7d3e921.css",
+    "static/js/main.b9fc0619.js"
+  ]
+}
